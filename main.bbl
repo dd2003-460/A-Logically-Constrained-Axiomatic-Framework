@@ -1,0 +1,231 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global/global}
+  \entry{fawzi2022discovering}{article}{}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{7}{}{%
+      {{hash=FA}{%
+         family={Fawzi},
+         familyi={F\bibinitperiod},
+         given={Alhussein},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Balog},
+         familyi={B\bibinitperiod},
+         given={Matej},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HF}{%
+         family={Husz{\'a}r},
+         familyi={H\bibinitperiod},
+         given={Ferenc},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=NA}{%
+         family={Novikov},
+         familyi={N\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HT}{%
+         family={Hubert},
+         familyi={H\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HP}{%
+         family={Hashemizadeh},
+         familyi={H\bibinitperiod},
+         given={Pantea},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=VO}{%
+         family={Vinyals},
+         familyi={V\bibinitperiod},
+         given={Oriol},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{FA+1}
+    \strng{fullhash}{FABMHFNAHTHPVO+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{7930}
+    \field{pages}{47\bibrangedash 53}
+    \field{title}{Discovering faster matrix multiplication algorithms with
+  reinforcement learning}
+    \field{volume}{610}
+    \field{journaltitle}{Nature}
+    \field{year}{2022}
+  \endentry
+
+  \entry{garcez2019neural}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=GAd}{%
+         family={Garcez},
+         familyi={G\bibinitperiod},
+         given={Artur\bibnamedelima d’Avila},
+         giveni={A\bibinitperiod\bibinitdelim d\bibinitperiod},
+      }}%
+      {{hash=LLC}{%
+         family={Lamb},
+         familyi={L\bibinitperiod},
+         given={Lu\'{\i}s\bibnamedelima C.},
+         giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Kluwer Academic Publishers}%
+    }
+    \keyw{Neurosymbolic AI, Machine learning, Reasoning, Explainable AI, Deep
+  learning, Trustworthy AI, Cognitive reasoning}
+    \strng{namehash}{GAdLLC1}
+    \strng{fullhash}{GAdLLC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    Current advances in Artificial Intelligence (AI) and Machine Learning have
+  achieved unprecedented impact across research communities and industry.
+  Nevertheless, concerns around trust, safety, interpretability and
+  accountability of AI were raised by influential thinkers. Many identified the
+  need for well-founded knowledge representation and reasoning to be integrated
+  with deep learning and for sound explainability. Neurosymbolic computing has
+  been an active area of research for many years seeking to bring together
+  robust learning in neural networks with reasoning and explainability by
+  offering symbolic representations for neural models. In this paper, we relate
+  recent and early research in neurosymbolic AI with the objective of
+  identifying the most important ingredients of neurosymbolic AI systems. We
+  focus on research that integrates in a principled way neural network-based
+  learning with symbolic knowledge representation and logical reasoning.
+  Finally, this review identifies promising directions and challenges for the
+  next decade of AI research from the perspective of neurosymbolic computing,
+  commonsense reasoning and causal explanation.%
+    }
+    \verb{doi}
+    \verb 10.1007/s10462-023-10448-w
+    \endverb
+    \field{issn}{0269-2821}
+    \field{number}{11}
+    \field{pages}{12387–12406}
+    \field{title}{Neurosymbolic AI: the 3rd wave}
+    \verb{url}
+    \verb https://doi.org/10.1007/s10462-023-10448-w
+    \endverb
+    \field{volume}{56}
+    \list{location}{1}{%
+      {USA}%
+    }
+    \field{journaltitle}{Artif. Intell. Rev.}
+    \field{month}{03}
+    \field{year}{2023}
+  \endentry
+
+  \entry{newton1687principia}{book}{}{}
+    \name{author}{1}{}{%
+      {{hash=NI}{%
+         family={Newton},
+         familyi={N\bibinitperiod},
+         given={Isaac},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Jussu Societatis Regi{\ae} ac Typis Josephi Streater}%
+    }
+    \strng{namehash}{NI1}
+    \strng{fullhash}{NI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Philosophi{\ae} Naturalis Principia Mathematica}
+    \field{year}{1687}
+  \endentry
+
+  \entry{raissi2019pinns}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=RM}{%
+         family={Raissi},
+         familyi={R\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PP}{%
+         family={Perdikaris},
+         familyi={P\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KG}{%
+         family={Karniadakis},
+         familyi={K\bibinitperiod},
+         given={G.E.},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \keyw{Data-driven scientific computing, Machine learning, Predictive
+  modeling, Runge–Kutta methods, Nonlinear dynamics}
+    \strng{namehash}{RMPPKG1}
+    \strng{fullhash}{RMPPKG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    We introduce physics-informed neural networks – neural networks that are
+  trained to solve supervised learning tasks while respecting any given laws of
+  physics described by general nonlinear partial differential equations. In
+  this work, we present our developments in the context of solving two main
+  classes of problems: data-driven solution and data-driven discovery of
+  partial differential equations. Depending on the nature and arrangement of
+  the available data, we devise two distinct types of algorithms, namely
+  continuous time and discrete time models. The first type of models forms a
+  new family of data-efficient spatio-temporal function approximators, while
+  the latter type allows the use of arbitrarily accurate implicit Runge–Kutta
+  time stepping schemes with unlimited number of stages. The effectiveness of
+  the proposed framework is demonstrated through a collection of classical
+  problems in fluids, quantum mechanics, reaction–diffusion systems, and the
+  propagation of nonlinear shallow-water waves.%
+    }
+    \verb{doi}
+    \verb https://doi.org/10.1016/j.jcp.2018.10.045
+    \endverb
+    \field{issn}{0021-9991}
+    \field{pages}{686\bibrangedash 707}
+    \field{title}{Physics-informed neural networks: A deep learning framework
+  for solving forward and inverse problems involving nonlinear partial
+  differential equations}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S0021999118307125
+    \endverb
+    \field{volume}{378}
+    \field{journaltitle}{Journal of Computational Physics}
+    \field{year}{2019}
+  \endentry
+\enddatalist
+\endinput
